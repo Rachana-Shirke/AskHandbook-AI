@@ -1,0 +1,12 @@
+[
+    {
+        "id": "001",
+        "name": "Employee Handbook",
+        "path": "uploads/employee_handbook.pdf"
+    },
+    {
+        "id": "002",
+        "name": "Leave Policy",
+        "path": "uploads/leave_policy.pdf"
+    }
+]
